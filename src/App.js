@@ -4,7 +4,7 @@ import qr from './assets/image-qr-code.png';
 function App() {
   return (
     <div className='bg'>
-      <div className='d-block mx-auto my-auto bg-white card cardcss'>
+      <div className='d-block bg-white card cardcss'>
         <img src={qr}/>
         <div>
           <b>Improve your front-end skills by building projects</b>
